@@ -12,4 +12,4 @@
 # installation
 This modpack is best used with launchers like [PolyMC](https://polymc.org/download/) that can import Modrinth modpacks. Specific installation steps for PolyMC can be found [here](INSTALLATION.md).
 # improvements?
-Any issues with mod support or general improvements can be reported [here](https://github.com/sylvrs/electric-cowboy)!
+Any issues with mod support or general improvements can be reported [here](https://github.com/sylvrs/electric-cowboy/issues)!
