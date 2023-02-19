@@ -27,14 +27,13 @@ If all is done correctly, an account will be added to your launcher.
 
 ## Step 3 - Adding Modpack
 
-Now that you are signed in, navigate to the [Releases page](https://github.com/sylvrs/electric-cowboy/releases) and look for the first file link named something like `electric-cowboy-v[VERSION].zip`. From there, right-click the link, click "Copy file address", and switch back to PolyMC.
+Now that you are signed in, navigate to the [Releases page](https://github.com/sylvrs/electric-cowboy/releases) and look for the first file link named something like `electric-cowboy-v[VERSION].zip`. From there, save the file and navigate back to PolyMC.
 
 Once back on the main screen of PolyMC, click the "Add Instance" button followed by the "Import from zip" option on the "New Instance" menu.
 ![Add Instance](.github/installation/add_instance.png)
 ![Import from ZIP](.github/installation/import_zip_option.png)
 
-From there, paste the link address into the text input field and click OK.
-![OK Button](.github/installation/ok_button.png)
+From there, click browse, change the file input type from `.zip` to `.mrpack` in the bottom right of the file explorer, locate your file, and click "Open".
 
 ## Step 4 - Opening Instance
 Now that your instance is installed, open the modpack by double clicking its name.
