@@ -7,9 +7,9 @@
 </p>
 
 # what is it?
-**electric cowboy** is a client-side modpack meant to be used to increase performance while also adding many gameplay improvements through mods like MidnightControls, Mouse Tweaks, [Essential Mod](https://essential.gg), and Prismo Voice.
+**electric cowboy** is a client-side modpack meant to be used to increase performance while also adding many gameplay improvements through mods like MidnightControls, Mouse Tweaks, [Essential Mod](https://essential.gg), and Plasmo Voice.
 
 # installation
-This modpack is best used with launchers like [PolyMC](https://polymc.org/download/) that can import Modrinth modpacks. Specific installation steps for PolyMC can be found [here](INSTALLATION.md).
+This modpack is best used with launchers like [Prism](https://prismlauncher.org/download) that can import Modrinth modpacks. Specific installation steps for Prism can be found [here](INSTALLATION.md).
 # improvements?
 Any issues with mod support or general improvements can be reported [here](https://github.com/sylvrs/electric-cowboy/issues)!

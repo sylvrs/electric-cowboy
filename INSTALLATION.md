@@ -1,13 +1,12 @@
-# Installation - PolyMC
+# Installation - Prism
 
 
-Installing the modpack through PolyMC is *extremely* simple. All one has to do is follow the simple steps below and you'll be off to the races!
+Installing the modpack through Prism is *extremely* simple. All one has to do is follow the simple steps below and you'll be off to the races!
 
 NOTE: This installation assumes that you are using Windows to install. Installation on Mac is just as easy and should be extremely similar
 
 ## Step 1 - Download
-First, download the PolyMC launcher for your respective operating system from [here](https://polymc.org/download/).
-![Install Page](.github/installation/install_page.png)
+First, download the Prism launcher for your respective operating system from [here](https://prismlauncher.org/download).
 
 After the file is done downloading, install as you would any other program and configure how you'd like. Open after the installation is complete.
 
@@ -27,9 +26,9 @@ If all is done correctly, an account will be added to your launcher.
 
 ## Step 3 - Adding Modpack
 
-Now that you are signed in, navigate to the [Releases page](https://github.com/sylvrs/electric-cowboy/releases) and look for the first file link named something like `electric-cowboy-v[VERSION].zip`. From there, save the file and navigate back to PolyMC.
+Now that you are signed in, navigate to the [Releases page](https://github.com/sylvrs/electric-cowboy/releases) and look for the first file link named something like `electric-cowboy-v[VERSION].zip`. From there, save the file and navigate back to Prism.
 
-Once back on the main screen of PolyMC, click the "Add Instance" button followed by the "Import from zip" option on the "New Instance" menu.
+Once back on the main screen of Prism, click the "Add Instance" button followed by the "Import from zip" option on the "New Instance" menu.
 ![Add Instance](.github/installation/add_instance.png)
 ![Import from ZIP](.github/installation/import_zip_option.png)
 
