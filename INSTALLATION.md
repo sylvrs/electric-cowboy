@@ -41,5 +41,5 @@ Now that your instance is installed, open the modpack by double clicking its nam
 ![Modpack Instance Option](.github/installation/instance_option.png)
 
 
-Congratulations! You have now successfully installed the modpack and are ready to play! Make sure to configure your game however you need to! This may include adding resource packs and tuning graphic options!
+Congratulations! You have now successfully installed the modpack and are ready to play! Make sure to configure your game however you need to! This may include adding resource packs, tuning graphic options, and updating keybinds!
 ![Successful Installation](.github/installation/successful_installation.png)
