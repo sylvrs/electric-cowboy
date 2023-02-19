@@ -11,6 +11,11 @@ hash = "e87a52fb14288a8c503c76a40a18fb901de532b2805e84799c63d6202b3ce037"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "064fafff245baf812342dc9af4acf661dec663bab2a4067c65a27fa00860efb1"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "26e720ab613645ce95edb929e7303e2be0dea80fa950a72883c1eee2842513b1"
 metafile = true
 
 [[files]]
@@ -33,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "443e8f4bc1c71f843308885e8ab345bebedc19a6054bd97a61d6612f783832f4"
 metafile = true
 
 [[files]]
