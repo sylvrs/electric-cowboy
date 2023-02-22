@@ -1,13 +1,13 @@
 name = "electric cowboy"
 author = "sylvrs"
-version = "1.2.1"
+version = "1.3.0-alpha1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "68069abd7c78e2190c92af081c89e3fa45f41692f8ede7d879fc9bc7cedb7a37"
+hash = "8809a3af3a83f68828868d4db89f591b205ab3b4c0025f1e79a5304b7cc2a2e1"
 
 [versions]
-fabric = "0.14.14"
 minecraft = "1.19.3"
+quilt = "0.18.2"

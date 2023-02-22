@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7941bb32fbbaba49d4126d2c2f70de0fab748c34d7b76310b084e909932dad93"
 metafile = true
@@ -18,6 +23,26 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "188b1f6587b9bcdc3788ae404ad891e5c552b64d3397257cdeab43dd611232df"
+metafile = true
+
+[[files]]
+file = "mods/chime.pw.toml"
+hash = "573c77af3df0ddda601b8e048bfa5c808f31577f7954261b0c7386a3bb8b2abb"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
+metafile = true
+
+[[files]]
+file = "mods/clear-skies.pw.toml"
+hash = "a55ff973abfd437cfe5e319ac41e2084094c0a0a84275ab887c8989751015f2e"
 metafile = true
 
 [[files]]
@@ -46,8 +71,18 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "2832b1d98f32cc47df1283a99e89be0a25de18cf8132ec0424904c7927900fa0"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1b6d3b3242c76ac3b3b81206f470d28f3b4d1d09af450ed358688ea5f8abde14"
 metafile = true
 
 [[files]]
@@ -88,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "83a212a71370bd6cc3133a44aed97da0d03492b525f4f0aff5e5a76922608b0b"
 metafile = true
 
 [[files]]
@@ -138,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "fa7b74cbad4fd4bdf39c475ab63aa8eda361310b5f647f9e435b03074c16a217"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "2406fde45dfba5beaf45f027f028c28ef9cc8cec91b27429c29979af19b4877b"
 metafile = true
 
 [[files]]
