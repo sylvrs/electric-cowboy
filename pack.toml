@@ -1,12 +1,12 @@
 name = "electric cowboy"
 author = "sylvrs"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "28b25cc2924216e7624f38231c1c84a647205881ae38220bcad66b49d2e24b75"
+hash = "68069abd7c78e2190c92af081c89e3fa45f41692f8ede7d879fc9bc7cedb7a37"
 
 [versions]
 fabric = "0.14.14"
