@@ -136,11 +136,6 @@ hash = "4697f8eec2f5a8a6a3aca65ebad0cac1f6c6a29b4c0433e489d98985854731c5"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "ce46b6f0156642465b132a6deb5c6d15d9ae7ae63313bbb0bc751accf6ed3ad0"
-metafile = true
-
-[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "fa7b74cbad4fd4bdf39c475ab63aa8eda361310b5f647f9e435b03074c16a217"
 metafile = true
